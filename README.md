@@ -1,0 +1,2 @@
+# rigorRepo
+Computational Reproducibility Homework
